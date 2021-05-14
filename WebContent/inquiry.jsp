@@ -7,8 +7,8 @@ pageEncoding="ISO-8859-1"%>
 <meta charset="ISO-8859-1">
 <title>Inquiry Management</title>
 <link rel="stylesheet" href="Views/bootstrap.min.css">
-<script src="Components/jquery-3.2.1.min.js"></script>
-<script src="Components/inquiry.js"></script>
+<script src="component/jquery-3.2.1.min.js"></script>
+<script src="component/inquiry.js"></script>
 </head>
 <body> 
 <div class="container"><div class="row"><div class="col-10"> 
